@@ -24,6 +24,8 @@ por ultimo devolver el total de la factura
 
 5- Calcular el área de un círculo  y el volumen 
 otra que calcule el volumen de un cilindro y utilice  primera función.
+![image](https://github.com/user-attachments/assets/460814b0-2b67-42c6-8f33-5e82d53b61cd)
+![image](https://github.com/user-attachments/assets/fc347c25-89e2-4bae-91d0-5c03408545e6)
 
 
 
