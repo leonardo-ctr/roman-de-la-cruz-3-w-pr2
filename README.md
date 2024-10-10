@@ -48,6 +48,10 @@ mayor de ellos.
 todos los números de una lista. Por ejemplo: sum([1,2,3,4]) debería devolver 10 y multip([1,2,3,4])
 debería devolver 24.
 
+![image](https://github.com/user-attachments/assets/ff557b56-81b4-4f10-993b-7f6452782ab0)
+![image](https://github.com/user-attachments/assets/545a5857-8580-4af6-a04d-de04dfb1b0dd)
+
+
 
 
 
