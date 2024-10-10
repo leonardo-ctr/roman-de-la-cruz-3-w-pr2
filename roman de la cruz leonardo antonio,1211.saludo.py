@@ -1,11 +1,11 @@
-print(" ")#define una linea en blanco
-print(" Roman De la Cruz leonardo Antonio, 3-w, numero:1211")
-
+ print(" ")#define una linea en blanco
+print("1-Funcion que muestre el saludo Hey amigos! cada vez que se le pida")
+ print(" ")#define una linea en blanco
+print(" Roman De la Cruz Leonardo antonio,(1),1211,3-w")
+ print(" ")#define una linea en blanco
 def mostrar_saludo():
     print(" ")#define una linea en blanco
-    print("Hey amigos!")
+    print("Hey amigos!")#IMPRIME EL MENSAJE
     print(" ")#define una linea en blanco
-
-# Llamar a la función varias veces
-for _ in range(1):  # Cambia 5 por la cantidad de repeticiones que desees
+for _ in range(3):#LAS VECES QUE SALDRA EL SALUDO
     mostrar_saludo()
