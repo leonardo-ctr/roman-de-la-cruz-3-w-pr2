@@ -28,4 +28,10 @@ otra que calcule el volumen de un cilindro y utilice  primera función.
 ![image](https://github.com/user-attachments/assets/fc347c25-89e2-4bae-91d0-5c03408545e6)
 
 
+6- Capturar dirección de email. Desplegar mensaje si la dirección es válida o no, siendo que una función lo revisar por tener la @ solo así es valida
+![image](https://github.com/user-attachments/assets/c4eda620-c6d8-4440-8197-9fe517dbdad1)
+![image](https://github.com/user-attachments/assets/a8cf4fc0-0171-40bf-b23f-c4a4de654753)
+
+
+7- Función que de un string, regrese la longitud de la última palabra. Las palabras tienen separación por uno o más espacios
 
