@@ -53,6 +53,11 @@ debería devolver 24.
 
 10- Escribir una función que tome un carácter y devuelva True si es una vocal, de lo contrario
 devuelve False.
+![image](https://github.com/user-attachments/assets/0bef7c4f-a5aa-49c5-b1e8-9a58dd295371)
+![image](https://github.com/user-attachments/assets/8defee86-6c8b-434c-9808-41a86ecb49b0)
+
+11-  Que saque la distancia dirigida entre dos puntos
+
 
 
 
