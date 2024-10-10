@@ -47,10 +47,12 @@ mayor de ellos.
 9- Escribir una funcion sum() y una función multip() que sumen y multipliquen respectivamente
 todos los números de una lista. Por ejemplo: sum([1,2,3,4]) debería devolver 10 y multip([1,2,3,4])
 debería devolver 24.
-
 ![image](https://github.com/user-attachments/assets/ff557b56-81b4-4f10-993b-7f6452782ab0)
 ![image](https://github.com/user-attachments/assets/545a5857-8580-4af6-a04d-de04dfb1b0dd)
 
+
+10- Escribir una función que tome un carácter y devuelva True si es una vocal, de lo contrario
+devuelve False.
 
 
 
