@@ -39,6 +39,15 @@ otra que calcule el volumen de un cilindro y utilice  primera función.
 
 8- Definir una función (), que tome tres números como argumentos y devuelva el
 mayor de ellos.
+![image](https://github.com/user-attachments/assets/fa874f4f-e3e1-491b-a428-ef24c5e27c2b)
+![image](https://github.com/user-attachments/assets/958f7211-64cd-48f2-8337-4826dcdc47f1)
+
+
+
+9- Escribir una funcion sum() y una función multip() que sumen y multipliquen respectivamente
+todos los números de una lista. Por ejemplo: sum([1,2,3,4]) debería devolver 10 y multip([1,2,3,4])
+debería devolver 24.
+
 
 
 
