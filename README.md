@@ -58,6 +58,9 @@ devuelve False.
 
 11-  Que saque la distancia dirigida entre dos puntos
 
+![image](https://github.com/user-attachments/assets/955bcfb9-fa4d-45d9-a88e-4441265f4f9e)
+![image](https://github.com/user-attachments/assets/3fc57166-d01f-457c-b2ee-5708d4f68493)
+
 
 
 
