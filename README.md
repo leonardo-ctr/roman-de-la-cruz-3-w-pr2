@@ -18,5 +18,12 @@ prueba de envio de codigo y de screenshot
 primero obtener la cantidad sin IVA 
 luego el porcentaje de IVA a aplicar, 
 por ultimo devolver el total de la factura
+![image](https://github.com/user-attachments/assets/a0eb9163-437f-4c39-a989-99fc663885ed)
+![image](https://github.com/user-attachments/assets/88f8f32b-d7e5-4e53-b23b-9d836302c539)
+
+
+5- Calcular el área de un círculo  y el volumen 
+otra que calcule el volumen de un cilindro y utilice  primera función.
+
 
 
